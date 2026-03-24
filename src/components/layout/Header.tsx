@@ -31,8 +31,11 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4">
-        <Link href="/" className="text-xl font-bold text-primary">
-          Im Lab
+        <Link href="/" className="flex flex-col leading-tight">
+          <span className="text-xl font-bold text-primary-dark">Im Lab</span>
+          <span className="text-[11px] text-muted-foreground tracking-wide">
+            {locale === "ko" ? "컴퓨터공학부 · 경남대학교" : "School of CS · Kyungnam Univ."}
+          </span>
         </Link>
 
         {/* Desktop nav */}

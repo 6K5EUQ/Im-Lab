@@ -10,6 +10,11 @@
   --border: #e5e5e5;
   --accent: #f0f9ff;
   --destructive: #ef4444;
+  --primary-dark: #1e40af;
+  --surface-warm: #fafaf9;
+  --surface-muted: #f4f4f5;
+  --text-heading: #111827;
+  --border-strong: #d1d5db;
 }
 
 @theme inline {
@@ -22,6 +27,11 @@
   --color-border: var(--border);
   --color-accent: var(--accent);
   --color-destructive: var(--destructive);
+  --color-primary-dark: var(--primary-dark);
+  --color-surface-warm: var(--surface-warm);
+  --color-surface-muted: var(--surface-muted);
+  --color-text-heading: var(--text-heading);
+  --color-border-strong: var(--border-strong);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -35,6 +45,11 @@
     --border: #404040;
     --accent: #172554;
     --destructive: #dc2626;
+    --primary-dark: #3b82f6;
+    --surface-warm: #111111;
+    --surface-muted: #1a1a1a;
+    --text-heading: #f9fafb;
+    --border-strong: #525252;
   }
 }
 
@@ -45,4 +60,9 @@ body {
     BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI",
     "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+}
+
+.bg-dot-grid {
+  background-image: radial-gradient(circle, var(--border) 1px, transparent 1px);
+  background-size: 24px 24px;
 }

@@ -31,7 +31,18 @@
     "hero": "Welcome to Our Lab",
     "recentAnnouncements": "Recent Announcements",
     "ongoingResearch": "Ongoing Research",
-    "labMembers": "Lab Members"
+    "labMembers": "Lab Members",
+    "labIntroHeading": "About the Lab",
+    "labIntroBody": "Im Lab researches software security and program analysis. Our work covers software theft detection (birthmarking), static program analysis, and ML-based software classification, with publications in COMPSAC, IEICE Transactions, Journal of Systems and Software, and other international venues.",
+    "statsProjects": "Active Projects",
+    "statsPublications": "Publications",
+    "statsMembers": "Lab Members",
+    "statsYears": "Years of Research",
+    "recentNews": "Recent Announcements",
+    "recentNewsMore": "View All Announcements",
+    "researchAreasHeading": "Research Areas",
+    "exploreResearch": "Explore Research →",
+    "quickNav": "Navigate"
   },
   "auth": {
     "email": "Email",
@@ -137,7 +148,15 @@
     "vision": "Vision",
     "researchAreas": "Research Areas",
     "location": "Location",
-    "contact": "Contact"
+    "contact": "Contact",
+    "department": "School of Computer Engineering",
+    "university": "Kyungnam University",
+    "address": "7 Kyungnamdaehak-ro, Masanhoewon-gu, Changwon",
+    "github": "GitHub",
+    "scholar": "Google Scholar",
+    "labDescription": "Im Lab is a research group focused on fundamental problems in software engineering.",
+    "quickLinks": "Quick Links",
+    "affiliations": "Affiliations"
   },
   "dashboard": {
     "title": "Dashboard",

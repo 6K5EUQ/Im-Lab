@@ -31,7 +31,18 @@
     "hero": "연구실에 오신 것을 환영합니다",
     "recentAnnouncements": "최근 공지사항",
     "ongoingResearch": "진행 중인 연구",
-    "labMembers": "연구실 멤버"
+    "labMembers": "연구실 멤버",
+    "labIntroHeading": "연구실 소개",
+    "labIntroBody": "임현일 교수 연구실은 소프트웨어 보안과 프로그램 분석 분야를 연구합니다. 소프트웨어 도용 탐지(birthmarking), 정적 프로그램 분석, 기계학습 기반 소프트웨어 분류 등의 연구를 수행하며, COMPSAC·IEICE·Journal of Systems and Software 등 국제 학술대회 및 저널에 다수의 연구 성과를 발표하고 있습니다.",
+    "statsProjects": "진행 중인 연구",
+    "statsPublications": "발표 논문",
+    "statsMembers": "연구실 멤버",
+    "statsYears": "연구 경력",
+    "recentNews": "최근 공지사항",
+    "recentNewsMore": "전체 공지사항 보기",
+    "researchAreasHeading": "주요 연구 분야",
+    "exploreResearch": "연구 보기 →",
+    "quickNav": "바로가기"
   },
   "auth": {
     "email": "이메일",
@@ -137,7 +148,15 @@
     "vision": "비전",
     "researchAreas": "연구 분야",
     "location": "위치",
-    "contact": "연락처"
+    "contact": "연락처",
+    "department": "컴퓨터공학부",
+    "university": "경남대학교",
+    "address": "경남 창원시 마산회원구 경남대학로 7",
+    "github": "GitHub",
+    "scholar": "Google Scholar",
+    "labDescription": "임현일 교수 연구실은 소프트웨어공학 분야의 핵심 문제를 탐구합니다.",
+    "quickLinks": "바로가기",
+    "affiliations": "소속"
   },
   "dashboard": {
     "title": "대시보드",
