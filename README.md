@@ -1,11 +1,10 @@
-# Im Lab — 경남대학교 임현일 교수 연구실
+# Im Lab 
 
 > **소프트웨어 보안 · 프로그램 분석 · 기계학습 기반 소프트웨어 분류**
-> 경남대학교 컴퓨터공학부 임현일 교수 연구실 공식 웹사이트
 
 🌐 **[im-lab.bewe.co.kr](https://im-lab.bewe.co.kr)**
 
----
+--- Implemented with Claude Code --- 
 
 ## 소개
 
